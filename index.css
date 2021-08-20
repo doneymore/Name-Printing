@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: burlywood;
+}
+
+.button {
+   display: inline-block;
+   color:aliceblue;
+   background-color: black;
+   height: 3rem;
+   text-align: center;
+ 
+};
